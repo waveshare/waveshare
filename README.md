@@ -1,16 +1,14 @@
-### Hi there 👋
+# WaveShare Team
+![image](https://www.waveshare.com/w/upload/a/a6/Waveshare-logo-en.svg)
 
-<!--
-**waveshare/waveshare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About us
+Waveshare was founded in 2006, among the first to embrace open source hardware. We are keen to share awesome hardware with you, aiming to accelerate the design and manufacture of electronic products and accelerate the development of the world.
 
-Here are some ideas to get you started:
+## Website
+* English：[www.waveshare.com](https://www.waveshare.com/)
+* Chinese：[www.waveshare.net](https://www.waveshare.net/)
+* Wiki   ：[www.waveshare.com/wiki](https://www.waveshare.com/wiki)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Issues
+* In order to respond to your technical issues faster, it is recommended to submit issues through the ticket system：https://support.waveshare.com/hc/en-us/
+* On Github, we only review issues from time to time
